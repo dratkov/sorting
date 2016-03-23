@@ -45,5 +45,6 @@ func main() {
 	sort(Array)
 
 	fmt.Println(Array)
+
 	fmt.Println("Heap sort: end")
 }
